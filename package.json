@@ -1,0 +1,36 @@
+{
+    "name": "acute-express-app",
+    "description": "An aCute app plugin for using express as the application provider",
+    "version": "0.0.1",
+    "main": "lib/index.js",
+    "author": {
+        "name": "John O'Connor",
+        "email": "sax1johno@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sax1johno/acute-express-controllers.git"
+    },
+    "bugs": {
+        "url": "https://github.com/sax1johno/acute-express-controllers/issues"
+    },
+    "keywords": [
+        "acute",
+        "express",
+        "app"
+    ],
+    "license": "MIT",
+    "contributors": [{
+        "name": "John O'Connor",
+        "email": "sax1johno@gmail.com"
+    }],
+    "dependencies": {
+        "express": ">4.0",
+        "async": "*",
+        "underscore": "*",
+        "architect": "*"
+    },
+    "plugin": {
+        "provides": ["app"]
+    }
+}
