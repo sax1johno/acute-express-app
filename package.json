@@ -1,7 +1,7 @@
 {
     "name": "acute-express-app",
     "description": "An aCute app plugin for using express as the application provider",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "main": "lib/index.js",
     "author": {
         "name": "John O'Connor",
