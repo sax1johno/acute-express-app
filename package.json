@@ -22,7 +22,7 @@
     "John O'Connor <sax1johno@gmail.com>"
   ],
   "dependencies": {
-    "express": ">4",
+    "express": ">=4",
     "async": "*",
     "underscore": "*",
     "architect": "*"
